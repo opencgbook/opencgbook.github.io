@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://cgbook.ru/sitemap.xml
+Disallow: /search/
